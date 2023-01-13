@@ -10,7 +10,7 @@ This project is a front-end application of a travel website using HTML, CSS, Jav
 To run the app locally, follow the below steps:
 1. Clone the app
 
-`git clone https://github.com/jahnavi0324/travel-website.git`
+`git clone https://github.com/jahnavish/travel-website.git`
 
 2. Go to the folder
 
